@@ -1,0 +1,6 @@
+framework module MyPodDemo {
+  umbrella header "MyPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
